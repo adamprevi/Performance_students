@@ -1,4 +1,4 @@
-```python
+
 # ==============================
 # IMPORTATION
 # ==============================
@@ -279,5 +279,6 @@ Sample Question Papers Practiced
                     file_name="predictions_reg1.csv",
                     mime="text/csv"
                 )
-```
+
+
 
